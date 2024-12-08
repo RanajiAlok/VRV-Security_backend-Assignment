@@ -1,4 +1,4 @@
-VRV Security Intern Assignment
+#VRV Security Intern Assignment
 This project is a comprehensive implementation of Authentication, Authorization, and Role-Based Access Control (RBAC) mechanisms as part of my internship assignment for VRV Security. The system ensures secure access control based on user roles and integrates Google OAuth for seamless authentication.
 
 Table of Contents
